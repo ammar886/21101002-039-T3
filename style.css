@@ -206,7 +206,7 @@
         color: white;
       }
 
-    @media only screen and (max-width:720px){
+    @media only screen and (max-width:740px){
         .Navbar{
             position: static;
             width: 100%;
@@ -215,20 +215,25 @@
             letter-spacing: 0.3px;
             padding: 0;
         }
+        .Navbar > .MenuItems> li{
+            float: right;
+            margin-right: 30px;
+            
+        }
+
+        .MainContent{
+            padding: 0;
+            margin-top: 0px;
+        }
+
+        .MainContent > img{
+            margin-top: 15px;
+        }
 
        
 
         .top_Section{
             width: 100%;
-        }
-
-        .MainContent{
-            width: 100%;
-            margin: 0px;
-            padding-top: 0px;
-            margin-top: 0px;
-            margin-left: 0px;
-            margin-right: 0px;
         }
 
     }

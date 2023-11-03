@@ -206,13 +206,13 @@
         color: white;
       }
 
-    @media only screen and (max-width:800px){
+    @media only screen and (max-width:720px){
         .Navbar{
             position: static;
             width: 100%;
             font-weight: 500;
             font-size: 12px;
-            letter-spacing: 0.5px;
+            letter-spacing: 0.3px;
             padding: 0;
         }
 
@@ -225,7 +225,10 @@
         .MainContent{
             width: 100%;
             margin: 5px;
-            padding: 2px;
+            padding-top: 0px;
+            margin-top: 0px;
+            margin-left: 0px;
+            margin-right: 0px;
         }
 
     }

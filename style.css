@@ -210,8 +210,26 @@
         .Navbar{
             position: static;
             width: 100%;
+            font-weight: 500;
+            font-size: 12px;
+            letter-spacing: 0.5px;
+            padding: 0;
         }
+
+       
+
+        .top_Section{
+            width: 100%;
+        }
+
+        .MainContent{
+            width: 100%;
+            margin: 5px;
+            padding: 2px;
+        }
+
     }
+
       
 
       

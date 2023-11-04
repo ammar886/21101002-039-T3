@@ -184,7 +184,7 @@
 
         .Navbar > .MenuItems> li{
             float: right;
-            
+            margin-right: 15px;
         }
 
         .Page_Section{

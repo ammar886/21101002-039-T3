@@ -176,10 +176,11 @@
 
         .Navbar{
             position: static;
-            width: 100vw;
+            width: auto;
             font-weight: 500;
             font-size: 12px;
-            overflow-x: hidden;     
+            
+                
         }
 
         .Navbar > .MenuItems> li{
